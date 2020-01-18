@@ -34,6 +34,11 @@ font & reset css
 reset
 --------------------------------------------- 
 */
+
+
+
+
+
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, div
 pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q,
 s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li,
@@ -891,6 +896,7 @@ ul.slick-dots {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  
 }
 
 .Modern-Slider .item h3 {
@@ -901,6 +907,7 @@ ul.slick-dots {
   letter-spacing: 1px;
   color:#FFF;
   animation:fadeOutRight 1s both;
+  
 }
 
 .Modern-Slider .item h5 {
@@ -911,6 +918,7 @@ ul.slick-dots {
   color:#FFF;
   overflow:hidden;
   animation:fadeOutLeft 1s both;
+  
 }
 
 .Modern-Slider .item a {
