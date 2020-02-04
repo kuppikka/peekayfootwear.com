@@ -891,6 +891,7 @@ ul.slick-dots {
 }
 
 .Modern-Slider .text-content {
+
   width: 80%;
   position: absolute;
   top: 50%;
@@ -905,7 +906,7 @@ ul.slick-dots {
   text-transform: uppercase;
   font-weight: 600;
   letter-spacing: 1px;
-  color:#FFF;
+  color:black;
   animation:fadeOutRight 1s both;
   
 }
@@ -915,7 +916,7 @@ ul.slick-dots {
   font-size: 36px;
   font-weight: 200;
   letter-spacing: 2.5px;
-  color:#FFF;
+  color:black;
   overflow:hidden;
   animation:fadeOutLeft 1s both;
   
