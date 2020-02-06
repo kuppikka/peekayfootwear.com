@@ -366,7 +366,7 @@ header
 
 .header-area .main-nav .logo {
   line-height: 80px;
-  color: #fff;
+  color: black;
   font-size: 28px;
   font-weight: 700;
   text-transform: uppercase;
@@ -444,12 +444,12 @@ header
 }
 
 .header-area .main-nav .nav li a {
-  color: #fff;
+  color: black;
 }
 
 .header-area .main-nav .nav li:hover a,
 .header-area .main-nav .nav li a.active {
-  color: #fff!important;
+  color: black!important;
   opacity: 0.5;
 }
 
